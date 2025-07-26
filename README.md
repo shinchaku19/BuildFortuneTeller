@@ -1,0 +1,2 @@
+# BuildFortuneTeller
+BuildFortuneTeller by JavaScript
